@@ -1,0 +1,123 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='' name='description'>
+<meta content='' name='author'>
+<title>Там Куи Кхи-конг</title>
+<link rel="stylesheet" media="all" href="css/tamqui.css" data-turbolinks-track="true" />
+<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
+</head>
+<body class='main'>
+<div class='container'>
+<div class='masthead'>
+<div class='brand'>
+<a href="index.shtml"><img title="Там Куи Кхи Конг" class="logo" src="img/planka-right.jpg" alt="Logo" />
+</a>
+</div>
+<header> Федерация Там Куи Кхи-конг. Индивидуальные и групповые занятия +7 (495) 769-72-00 </header>
+<nav>
+<ul class='nav nav-justified'>
+<!-- <li><a href="#">Главная</a></li>  -->
+<li><a href="adresa-zalov.shtml">Адреса залов</a></li>
+<li><a href="video_tamqui.shtml">Видео</a></li> 
+<li><a href="knigi.shtml">Книги</a></li> 
+<li><a href="boevoe-iskusstvo.shtml">Боевое искусство</a></li> 
+<li><a href="khi-yoga.shtml">Кхи-йога</a></li> 
+<li><a href="podrostki.shtml">Для подростков</a></li> 
+<li><a href="zanim.shtml">Занимающимся</a></li> 
+<li><a href="velichie_dzen.shtml">Величие Дзен</a></li> 
+
+</ul>
+</nav>
+</div>
+
+<!-- СЛАЙДЕР  -->			
+<div  width="700" valign="top" style="border-left-width: 1px; border-top-width: 1px; border-bottom-width: 1px" height="500">
+			<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+			<script defer src="js/jquery.flexslider.js"></script>
+
+			<script type="text/javascript">
+				$(function(){
+				  SyntaxHighlighter.all();
+				});
+				$(window).load(function(){
+				  $('.flexslider').flexslider({
+					animation: "slide",
+					start: function(slider){
+					  $('body').removeClass('loading');
+					}
+				  });
+				});
+			</script>
+
+			<div id="container" class="cf">
+
+				<div id="main" role="main">
+				  <section class="slider">
+					<div class="flexslider">
+					  <ul class="slides">
+							<li>
+							<img src="img/tq-slider-nammo.jpg" />
+							</li>
+							<li>
+							<img src="img/tq-slider-ruslan.jpg" />
+							</li>
+							<li>
+							<img src="img/tq-slider-zal.jpg" />
+							</li>
+							<li>
+							<img src="img/tq-slider-kulak.jpg" />
+							</li>
+							<li>
+							<img src="img/tq-slider-girls.jpg" />
+							</li>
+							 <li>
+							<img src="img/tq-slider-1.jpg" />
+							</li>  	    		
+							<li>
+							<img src="img/tq-slider-2.jpg" />
+							</li>
+							<li>
+							<img src="img/tq-slider-3.jpg" />
+							</li>
+					  </ul>
+					</div>
+				  </section>
+				</div>
+			  
+			  </div>
+  		</div>
+ <!-- Site content -->
+ <div class='row'>
+<div class='col-xs-12 content'><p style="text-align: center;">Вьетнамское боевое искусство Там Куи Кхи-конг имеет
+ последовательную структуру постижения.</p><p style="text-align: center;"><a href="/devyat-stupeney-tam-kui">Девять ступеней школы</a> – это путь от ученика до мастера.</p><p style="text-align: center;">Сила и скорость, приобретаются не за счёт изнурительных тренировок, вызывающих износ организма, а за счёт правильной техники и особой методики проведения занятий. </p><p style="text-align: center;">В <a href="/praktika">практике</a> Там Куи Кхи-конг применяется метод чередования упражнений различной направленности. В результате чего достигается крепкое здоровье и всестороннее развитие человека.</p><p style="text-align: center;">Никакой агрессии, никакого насилия.</p><p style="text-align: center;">Хладнокровие, воля, осознанность.</p><p style="text-align: center;"><br></p><br>
+</div>
+</div>
+<!-- Site footer -->
+<footer class='footer'>
+<p>
+<a href="/about">Федерация Там Куи Кхи-конг 2015
+<br>
+(495) 769-72-00
+</a></p>
+<img class="nammo" src="img/nammo-phat.jpg" alt="Nammo" />
+<img class="treasures" src="img/3treasures.gif" alt="Три сокровища" />
+</footer>
+</div>
+<!-- /container -->
+
+<nav>
+<ul class='nav nav-justified'>
+<li><a href="/devyat-stupeney-tam-kui">Девять ступеней</a></li>
+<li><a href="/video-bazovaya-tehnika">Видео</a></li>
+<li><a href="/knigi">Книги</a></li>
+<li><a href="/adresa-zalov">Адреса залов</a></li>
+<li><a href="/praktika">Практика</a></li>
+</ul>
+</nav>
+</body>
+</html>
