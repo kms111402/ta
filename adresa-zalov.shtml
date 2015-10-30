@@ -1,34 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset='utf-8'>
-<meta content='IE=edge' http-equiv='X-UA-Compatible'>
-<meta content='width=device-width, initial-scale=1' name='viewport'>
-<meta content='' name='description'>
-<meta content='' name='author'>
-<title>Там Куи Кхи-конг. Адреса залов</title>
-<link rel="stylesheet" media="all" href="css/tamqui.css" data-turbolinks-track="true" />
+<!--#include file="head-meta.inc"-->
 </head>
 <body class='main'>
-<div class='container'>
-<div class='masthead'>
-<div class='brand'>
-<a href="index.html"><img title="Там Куи Кхи Конг" class="logo" src="img/planka-right.jpg" alt="Logo" />
-</a>
-</div>
-<header> Федерация Там Куи Кхи-конг. Индивидуальные и групповые занятия +7 (495) 769-72-00 </header>
-<nav>
-<ul class='nav nav-justified'>
-<li><a href="index.shtml">Главная</a></li>
 
-<li><a href="/devyat-stupeney-tam-kui">Девять ступеней</a></li>
-<li><a href="/video-bazovaya-tehnika">Видео</a></li>
-<li><a href="/knigi">Книги</a></li>
-<li><a href="/adresa-zalov">Адреса залов</a></li>
-<li><a href="/praktika">Практика</a></li>
-</ul>
-</nav>
-</div>
+	<!--#include file="top.inc"-->
+
+
 <div class='row'>
 <div class='col-xs-12 content'><div class='page-title'>
 <h2>
@@ -58,16 +37,9 @@
 </div>
 </div>
 <!-- Site footer -->
-<footer class='footer'>
-<p>
-<a href="/about">Федерация Там Куи Кхи-конг 2015
-<br>
-(495) 769-72-00
-</a></p>
-<img class="nammo" src="//tamqui.s3.amazonaws.com/production/assets/nammo-e51e6f7c69d74438db48ab735fdd8951.jpg" alt="Nammo" />
-<img class="treasures" src="//tamqui.s3.amazonaws.com/production/assets/3treasures-9ac9d0b10912357c013ec16fcc9e9890.gif" alt="3treasures" />
-</footer>
-</div>
+
+<!--#include file="bottom.inc"-->
+
 <!-- /container -->
 </body>
 </html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<!--#include file="head-meta.inc"-->
+
+</head>
+<body class='main'>
+
+	<!--#include file="top.inc"-->
+
+<!-- Page content starts here -->
+
+<div class="row">
+<div class="col-xs-12 content">
+	<div class="page-title">
+		<h2>
+		Величие Дзен
+		<br>
+		<small>Перевод заголовка на вьетнамский тут</small>
+		</h2>
+		</div>
+		<p style="text-align: justify-left;">ТУТ ПОКА НИЧЕГО НЕТ. БУДЕТ )) </p>
+
+
+</div>
+</div>
+<!-- Site footer -->
+<!--#include file="bottom.inc"-->
+
+<!-- /container -->
+
+
+</body></html>

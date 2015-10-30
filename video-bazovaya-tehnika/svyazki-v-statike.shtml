@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<!--#include virtual="/2015/head-meta.inc"-->
+</head>
+<body class='main'>
+
+	<!--#include virtual="/2015/top.inc"-->
+
+<div class='row'>
+<div class='col-xs-12 content'><div class='page-title'>
+<h2>
+Связки в статике
+<br>
+<small>Luyện dây chằng</small>
+</h2>
+<ol class='breadcrumb'>
+  <li><a href="../index.shtml">Главная</a></li>
+	<li><a href="../video-tamqui.shtml">Базовая Техника Там Куи Кхи Конг</a></li>
+</ol>
+</div>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/IoJLvPmzzQA" frameborder="0" allowfullscreen=""></iframe>
+</div>
+</div>
+<!-- Site footer -->
+<!--#include virtual="/2015/bottom.inc"-->
+<!-- /container -->
+</body>
+</html>

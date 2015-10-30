@@ -6,7 +6,8 @@
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
     font-family: sans-serif;
-    -webkit-text-size-adjust: 100%;
+    -webkit-text-
+    -adjust: 100%;
     -ms-text-size-adjust: 100%
 }
 
@@ -53,7 +54,8 @@ abbr[title] {
 }
 
 b,strong {
-    font-weight: 700
+    font-weight: 700;
+    font-size: 110%;
 }
 
 dfn {
@@ -8156,7 +8158,7 @@ body.main {
 
 @media (min-width: 768px) {
 body.main .container {
-    max-width: 730px
+    max-width: 1000px
 }
 }
 
@@ -8211,6 +8213,17 @@ body.main .page-title {
     margin-left: auto;
     margin-right: auto
 }
+
+.figure .thien {
+   width: 278px;
+   height: 309px;
+    display: block;
+    margin-bottom: 9px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
 
 .footer .treasures {
     display: block;

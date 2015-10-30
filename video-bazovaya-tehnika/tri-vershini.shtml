@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<!--#include virtual="/2015/head-meta.inc"-->
+</head>
+<body class='main'>
+
+	<!--#include virtual="/2015/top.inc"-->
+
+
+<div class='row'>
+<div class='col-xs-12 content'><div class='page-title'>
+<h2>
+Тао &quot;Три вершины&quot;
+<br>
+<small>Tao “Ba đỉnh”</small>
+</h2>
+<ol class='breadcrumb'>
+  <li><a href="../index.shtml">Главная</a></li>
+  <li><a href="../video-tamqui.shtml">Базовая Техника Там Куи Кхи Конг</a></li>
+</ol>
+</div>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/1XoPBYqEJIo" frameborder="0" allowfullscreen=""></iframe><p><br></p><p>Тао - это особые комплексы упражнений, развивающие в человеке гармонию движения. Выполняя Тао, мы закладываем основы самозащиты и приобретаем способность оставаться в покое в любой ситуации. Принцип изучения Там Куи Кхи-конг на основе Тао состоит в том, что, повторяя Тао многие тысячи раз, практик Там Куи Кхи-конг приучает свое тело к определенного рода движениям, выводя их на бессознательный уровень. Таким образом, попадая в боевую ситуацию, тело работает «само», на основе рефлексов, вложенных многократным повторением Тао. Также Тао обладают медитативным воздействием.</p>
+</div>
+</div>
+<!-- Site footer -->
+<!--#include virtual="/2015/bottom.inc"-->
+<!-- /container -->
+</body>
+</html>
